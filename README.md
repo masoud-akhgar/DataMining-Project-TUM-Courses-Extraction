@@ -1,7 +1,7 @@
 # DataMining-Project-TUM-Courses-Extraction
 a project to extract and clustering the extracted Courses at a university
 
-- open ScreenShot Image to see the code and the result of frequent patterns extracted using various classifiers...
+- open ScreenShot Image (or click on link below) to see the code and the result of frequent patterns extracted using various classifiers...
 
 Steps taken on the project:
 - Preprocessing : Collecting data from web pages and converting them into structured form
