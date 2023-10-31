@@ -7,7 +7,7 @@ Steps taken on the project:
 - Preprocessing : Collecting data from web pages and converting them into structured form
 - Detailed examination of the dataset and selection of the desired features
 - stemming and lemmatization and removing stop words
-- Keyword Extraction : Keyword extraction using BER trained data model
+- Keyword Extraction : Keyword extraction using BERT trained data model
 - Frequent Pattern Extraction: Relationships between keywords also using associative rule extraction
 - Classification using KNN, Perceptron, MLP and SVM
 
