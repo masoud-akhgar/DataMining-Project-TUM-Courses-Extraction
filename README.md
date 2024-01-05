@@ -1,6 +1,11 @@
 # DataMining-Project-TUM-Courses-Extraction
 a project to extract and clustering the extracted Courses at a university
 
+• Goal is to classify courses on TUM university, Scraping data and Preprocessing From TUM University
+Website (using bs4)
+• Keyword and Frequent Pattern Extraction using BERT pre-trained data model
+• Classiffication using KNN, MLP and SVM
+
 - open ScreenShot Image (or click on link below) to see the code and the result of frequent patterns extracted using various classifiers...
 
 Steps taken on the project:
