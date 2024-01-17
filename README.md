@@ -1,3 +1,6 @@
+to see code:
+click on : https://github.com/masoud-akhgar/DataMining-Project-TUM-Courses-Extraction/blob/main/screencapture-colab-research-google-drive-18lXlX810aOAOAU6POot9l2F7StZcUlx6-2022-07-23-21_51_56.png
+
 # DataMining-Project-TUM-Courses-Extraction
 a project to extract and clustering the extracted Courses at a university
 
